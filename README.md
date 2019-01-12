@@ -33,6 +33,8 @@ Incorporate Colony
 
 9. Install colonyNetwork dependencies: `yarn`
 
+10. Check out this [Issue](https://github.com/fuguefoundation/colony-starter-angular/issues/1) and comment out the three lines of code in the specified .js files in `node_modules`.
+
 ## Launch the dApp
 
 Open four terminals. Three should be in the `colonyNetwork` submodule directory (`src/lib/colonyNetwork`), one should be in the project root.
