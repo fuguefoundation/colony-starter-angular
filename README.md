@@ -20,7 +20,7 @@ Incorporate Docker
 
 Incorporate Colony
 
-* These commands are derived from [`initiaze_project.sh`](https://github.com/JoinColony/colonyStarter/blob/master/packages/colony-starter-basic/scripts/initialize_project.sh) script from `colonyStarter`. This part of the setup could be automated, but I personally believe doing these commands individually is more educational.
+* These commands are derived from [`initiaze_project.sh`](https://github.com/JoinColony/colonyStarter/blob/master/packages/colony-starter-basic/scripts/initialize_project.sh) script from `colonyStarter`. This part of the setup could be automated, but I doing these commands individually is more useful for understanding the file structure and its submodules.
 
 5. Add colonyNetwork submodule: `git submodule add https://github.com/JoinColony/colonyNetwork src/lib/colonyNetwork`
 
