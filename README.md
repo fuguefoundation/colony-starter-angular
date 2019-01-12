@@ -2,6 +2,8 @@
 
 The goal of this repo is to create a Colony Starter running the Colony Network in Angular. In addition to wanting to understand the power and potential of Decentralized Autonomous Organizations (DAO), and improve my frontend skills, my intent is to give back to these excellent open source projects - and the community at large - that build on top of Ethereum.
 
+![colony-starter-angular](colony-starter-angular/src/assets/screenshot.png)
+
 ## Prerequisites
 * Yarn 1.12.3
 * Docker
